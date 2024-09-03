@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aboutinfo>
+<person1>
+    <name>isha</name>
+    <phone>+1 1236547896</phone>
+    <hobbies>
+         <hobby>Exploring places</hobby>
+         <hobby>Cooking</hobby>
+    </hobbies>
+</person1>
+<person2>
+    <name>john</name>
+    <phone>+1 8965475213</phone>
+    <hobbies>Reading books</hobbies>
+</person2>
+<person3>
+    <name>milly</name>
+    <phone>+1 8745213654</phone>
+    <hobbies>
+        <hobby>Dancing</hobby>
+        <hobby>reading books</hobby>
+    </hobbies>
+</person3>
+<person4>
+    <name>Divy</name>
+    <phone>+1 1236547896</phone>
+    <hobbies>
+        <hobby>Reading</hobby>
+        <hobby>Talking with stranger people</hobby>
+    </hobbies>
+</person4>
+<person5>
+    <name>Ritesh</name>
+    <phone>+1 8654213698</phone>
+    <hobbies>
+        <hobby>Cooking</hobby>
+        <hobby>Drawing</hobby>
+    </hobbies>
+</person5>
+   <person6>
+    <name>neel kumar</name>
+    <phone>+1 9874563214</phone>
+    <hobbies>
+        <hobby>Reading books</hobby>
+        <hobby>plaing cricket</hobby>
+        <hobby>Traveling</hobby>
+    </hobbies>
+</person6>
+<person7>
+    <name>Denis</name>
+    <phone>+1 8745632145</phone>
+    <hobbies>Exploring places</hobbies>
+</person7>
+<person8>
+    <name>jisha</name>
+    <phone>+1 1236547896</phone>
+    <hobbies>Dancing</hobbies>
+</person8>
+<person9>
+    <name>sohaa</name>
+    <phone>+1 1236547896</phone>
+    <hobbies>
+        <hobby>playing cricket</hobby>
+        <hobby>cooking</hobby>
+    </hobbies>
+</person9>
+<person10>
+    <name>reysh</name>
+    <phone>+1 1236547896</phone>
+    <hobbies>Exploring places</hobbies>
+</person10>
+</aboutinfo>
